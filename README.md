@@ -15,6 +15,5 @@ Open `index.html` in a browser, or serve this folder with any static file server
 - `education-achievements.css` — education and achievements columns
 - `script.js` — small progressive enhancements
 - `assets/chaithra-mahadevaswamy.jpg` — supplied portrait
-- `assets/chaithra-mahadevaswamy-resume.pdf` — supplied résumé
 
-The contact details and profile links are taken from the supplied résumé. Edit `index.html` to update them.
+The direct phone and email details and résumé download are intentionally omitted from the public-facing site. The contact form uses Netlify Forms and only works after deploying to Netlify with form detection enabled. Configure a submission email notification in the Netlify dashboard to receive inquiries. See [Netlify Forms setup](https://docs.netlify.com/manage/forms/setup/).
