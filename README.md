@@ -16,4 +16,4 @@ Open `index.html` in a browser, or serve this folder with any static file server
 - `script.js` — small progressive enhancements
 - `assets/chaithra-mahadevaswamy.jpg` — supplied portrait
 
-The direct phone and email details and résumé download are intentionally omitted from the public-facing site. The contact form uses Netlify Forms and only works after deploying to Netlify with form detection enabled. Configure a submission email notification in the Netlify dashboard to receive inquiries. See [Netlify Forms setup](https://docs.netlify.com/manage/forms/setup/).
+Direct phone and email details and the résumé download are intentionally omitted from the public-facing site. Visitors can request a résumé using the contact form. The form uses Netlify Forms: deploy the site to Netlify, enable form detection, and configure an email notification in the Netlify dashboard to receive inquiries. See [Netlify Forms setup](https://docs.netlify.com/manage/forms/setup/).
